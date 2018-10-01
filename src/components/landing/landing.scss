@@ -1,0 +1,43 @@
+
+.landing {
+    background-image: url("./sf.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.landing__content--size {
+    max-width: 90%;
+}
+
+.landing__content {
+    margin-top: 5%;
+}
+
+.landing__title {
+    height: 40%;
+    background-color: #9dc1d7;
+    font-family: 'Poiret One', cursive;
+    font-size: 80px;
+    text-align: center;
+    line-height: 180px;
+}
+
+.landing__description {
+    margin-top: 20px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 30px;
+    text-align: justify;
+}
+
+.travel-now {
+    background-color: transparent;
+    border: none;
+    width: 10%;
+    text-decoration: underline;
+    text-decoration-color: #134b7c;
+    color: #134b7c;
+    font-size: 40px;
+    font-family: 'Poiret One', cursive;
+}

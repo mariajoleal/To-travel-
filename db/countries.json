@@ -1,0 +1,32 @@
+{
+  "countries": [
+    {
+      "id": "1",
+      "name": "Costa Rica"
+    },
+    {
+      "id": "2",
+      "name": "Panama"
+    },
+    {
+      "id": "3",
+      "name": "Canada"
+    },
+    {
+      "name": "Albania",
+      "id": "6LkQFRh"
+    },
+    {
+      "name": "Argentina",
+      "id": "AlgmZ_1"
+    },
+    {
+      "name": "Algeria",
+      "id": "Niy34LB"
+    },
+    {
+      "name": "Nicaragua",
+      "id": "FZ~QZ59"
+    }
+  ]
+}

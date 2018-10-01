@@ -1,0 +1,24 @@
+.form {
+  margin-top: 20px;
+}
+
+.form__label {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 30px;
+  text-align: justify;
+}
+
+input {
+  border: 1px solid grey;
+  border-radius: 3px;
+}
+
+
+button {
+  background-color: #9dc1d7;
+  color: white;
+  margin-left: 5px;
+  border: 1px solid #9dc1d7;
+  border-radius: 3px;
+  width: 70px;
+}
